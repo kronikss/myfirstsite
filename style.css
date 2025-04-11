@@ -78,3 +78,7 @@ nav li a:hover {
 .img-container ul li{
 	list-style-type: none;
 }
+form {
+	padding: 15px 0;
+	float:right;
+}
